@@ -25,3 +25,12 @@ The interactive and user-friendly design empowers end-users to explore the data 
 Public Report Link : https://app.powerbi.com/groups/me/apps/c5ec72bd-3224-43cd-8346-138bd3809354/reports/76bed1ae-cb77-45ae-82c2-e3570ab25130/ReportSection58c742c535832e0b9d33?ctid=a68883a9-f2d3-4fbd-aaa9-1632b51814e6&experience=power-bi
 
 Feel free to access the interactive Power BI report dashboard using the provided public link above. The report is available in read-only mode, enabling anyone to explore the data-driven insights and visualization without the need for a Power BI license.
+
+# About Me
+
+I am passionate about data analytics and harnessing the power of visualization to drive data-driven decisions. Completing the Power BI course has expanded my skillset, enabling me to provide valuable insights and make a meaningful impact.
+
+If you have any feedback, suggestions, or would like to connect to discuss data analytics or Power BI further, please feel free to reach out!
+
+Email: vuyyalavijaykumar@gmail.com
+linkdin: www.linkedin.com/in/vijay-kumar-vuyyala-1b459612a
