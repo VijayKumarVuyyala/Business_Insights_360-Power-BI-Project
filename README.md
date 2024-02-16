@@ -13,3 +13,11 @@ The Power BI dashboard provides a comprehensive view of the hardware company's p
 🔹 Track Key Performance Indicators (KPIs) and measure business success against set targets and goals.
 
 The interactive and user-friendly design empowers end-users to explore the data and extract meaningful insights effortlessly.
+
+# Screenshots
+![4  Marketing View](https://github.com/VijayKumarVuyyala/Business_Insights_360-Power-BI-Project/assets/160216489/e2d6377a-2861-4a3b-8ad1-1ca0a1231eba)
+![3  Sales View](https://github.com/VijayKumarVuyyala/Business_Insights_360-Power-BI-Project/assets/160216489/6124dca9-473b-4335-8497-af0a2c2f60b5)
+![2  Finance View](https://github.com/VijayKumarVuyyala/Business_Insights_360-Power-BI-Project/assets/160216489/8882a248-b603-4db2-8b76-b5764054e4b6)
+![6  Executive View](https://github.com/VijayKumarVuyyala/Business_Insights_360-Power-BI-Project/assets/160216489/6919be0e-43d5-4e9a-bc6b-15c7ac208523)
+![5  Supply Chain View](https://github.com/VijayKumarVuyyala/Business_Insights_360-Power-BI-Project/assets/160216489/a776a474-a96a-4a40-836d-e2e2d7f8204e)
+
