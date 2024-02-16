@@ -21,3 +21,7 @@ The interactive and user-friendly design empowers end-users to explore the data 
 ![6  Executive View](https://github.com/VijayKumarVuyyala/Business_Insights_360-Power-BI-Project/assets/160216489/6919be0e-43d5-4e9a-bc6b-15c7ac208523)
 ![5  Supply Chain View](https://github.com/VijayKumarVuyyala/Business_Insights_360-Power-BI-Project/assets/160216489/a776a474-a96a-4a40-836d-e2e2d7f8204e)
 
+# Public Report Dashboard
+Public Report Link : https://app.powerbi.com/groups/me/apps/c5ec72bd-3224-43cd-8346-138bd3809354/reports/76bed1ae-cb77-45ae-82c2-e3570ab25130/ReportSection58c742c535832e0b9d33?ctid=a68883a9-f2d3-4fbd-aaa9-1632b51814e6&experience=power-bi
+
+Feel free to access the interactive Power BI report dashboard using the provided public link above. The report is available in read-only mode, enabling anyone to explore the data-driven insights and visualization without the need for a Power BI license.
